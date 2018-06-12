@@ -1,0 +1,4 @@
+Sitemap: https://www.pubg-club.com/sitemap.xml
+
+User-agent: *
+Allow: /

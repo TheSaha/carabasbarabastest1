@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+        <url>
+            <loc>http://localhost/main</loc>
+            <lastmod>2018-01-01</lastmod>
+            <changefreq>monthly</changefreq>
+            <priority>1</priority>
+        </url>
+        <url>
+            <loc>http://localhost/deposit</loc>
+            <lastmod>2018-01-01</lastmod>
+            <changefreq>monthly</changefreq>
+            <priority>1</priority>
+        </url>
+		<url>
+            <loc>http://localhost/withdraw</loc>
+            <lastmod>2018-01-01</lastmod>
+            <changefreq>monthly</changefreq>
+            <priority>1</priority>
+        </url>
+		<url>
+            <loc>http://localhost/rolls</loc>
+            <lastmod>2018-01-01</lastmod>
+            <changefreq>monthly</changefreq>
+            <priority>1</priority>
+        </url>
+		<url>
+            <loc>http://localhost/profile</loc>
+            <lastmod>2018-01-01</lastmod>
+            <changefreq>monthly</changefreq>
+            <priority>1</priority>
+        </url>
+    </urlset>
